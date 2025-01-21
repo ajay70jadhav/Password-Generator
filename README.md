@@ -52,7 +52,7 @@ This is a simple **Password Generator Web Application** built using **HTML**, **
 
 > Here's how the password generator looks:
 
-![Password Generator Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Screenshot)
+![Password Generator Screenshot](./Screenshot (148).png)
 
 ---
 
