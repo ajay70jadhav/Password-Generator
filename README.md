@@ -48,34 +48,8 @@ This is a simple **Password Generator Web Application** built using **HTML**, **
 
 ---
 
-## Preview 🌐
-
-> Here's how the password generator looks:
-
-![Password Generator Screenshot](./Screenshot (148).png)
-
----
-
-## Installation & Setup 🛠️
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/password-generator.git
-   ```
-2. Open the project folder and launch the **index.html** file in your browser.
-
----
-
-## Contributing 🤝
-
-Contributions are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
-
----
-
 ## License 📜
 
 This project is licensed under the **MIT License**. Feel free to use and modify the code.
 
 ---
-
-Feel free to customize this further to fit your needs! 😊
